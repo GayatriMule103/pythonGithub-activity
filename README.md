@@ -1,2 +1,0 @@
-# pythonGithub-activity
-new repo
